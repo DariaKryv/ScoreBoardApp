@@ -1,0 +1,16 @@
+body {
+  margin-top: 5%;
+}
+.tablo {
+  margin-top: 35px;
+  display: inline;
+  border: 2px solid rgb(179, 175, 175);
+  padding: 15px;
+  width: 30%;
+}
+.input_search {
+  margin: 5%;
+}
+.our_Characters {
+  margin: 5%;
+}
